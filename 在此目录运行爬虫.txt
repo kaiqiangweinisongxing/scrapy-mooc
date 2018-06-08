@@ -1,0 +1,2 @@
+scrapy crawl MySpider				有日志， MySpider为爬虫名
+scrapy crawl MySpider --nolog			无日志
